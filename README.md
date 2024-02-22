@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: (https://roaring-marshmallow-52691e.netlify.app/)
+- Live Site URL: (https://olenahelena.github.io/Palindrome-Checker-Project/)
 
 ### Screenshot
 
