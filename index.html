@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>
+        Palindrome Checker
+    </title>
+</head>
+
+<body>
+    <main class="container">
+        <h1>Palindrome Checker</h1>
+        <div class="palindrom_div">
+            <label for="text-input">Enter your text here:</label>
+            <input class="palindrome-input" id="text-input" value="" type="text">
+            <button class="palindrome-btn" id="check-btn">Check</button>
+            <div class="results-div hidden" id="result">yes</div>
+        </div>
+
+        <div class="palindrom_definition">
+            <p class="palindrom_definition_text">
+                <span role="img" aria-label="information icon">
+                    📌
+                </span>
+                A <dfn>palindrome</dfn> is a word, number, phrase, or other sequence of symbols that reads the same
+                backwards as forwards.
+            </p>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
