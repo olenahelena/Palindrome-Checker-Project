@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: (https://olenahelena.github.io/Palindrome-Checker-Project/)
+- Live Site URL: ([https://olenahelena.github.io/Palindrome-Checker-Project/])
 
 ### Screenshot
 
